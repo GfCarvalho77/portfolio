@@ -6,6 +6,7 @@ const EstiloGlobal = createGlobalStyle`
   padding: 0;
   background-color: #fff;
   font-family: "Inter", sans-serif;
+  list-style: none;
   }
 
   body {
